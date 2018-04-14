@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(112, 3, 80)
+}
+
+h1{color:rgb(112, 133, 80);
+    font-family: Helvetica;
+    font-size 50px;
+    font-weight:bolder;
+    font-style: italic;
+    text-decoration: underline;
+    padding-top: 100px;
+}
+
+.mammal {
+    color: red;
+    font-weight:bold;
+}
+.fish{
+    color:yellow;
+    text-decoration: underlined
+}
+
+.bird{ 
+    color:blue;
+    font-style:italic
+
+}
+.gray {background-color:grey;
+}
+
+header {
+    border:2px solid blue
+}
+
+ul{
+    list-style-type:none;
+    display:flex;
+    height:200px
+    align-items:center;
+    justify-content:space-around
+    flex-wrap:wrap;
+    
+
+}
+
